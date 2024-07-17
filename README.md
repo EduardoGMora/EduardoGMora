@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fobito-uchiha-red-eye-am4t44o848zx1bsi.html&psig=AOvVaw17wR3_jANUVYjzPwtUg75J&ust=1721320698725000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKjd-bfBrocDFQAAAAAdAAAAABAJ"  />
+<img align="right" height="150" src="https://media.gifdb.com/obito-uchiha-red-eye-am4t44o848zx1bsi.gif"  />
 
 ###
 
