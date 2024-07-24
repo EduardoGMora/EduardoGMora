@@ -1,6 +1,6 @@
 <style>
   .spoty{
-    
+    margin= 4rem;
   }
 </style>
 
