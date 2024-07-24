@@ -45,7 +45,9 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   </div>
-  <img height="250" src="https://static.wikia.nocookie.net/naruto/images/3/3d/La_cara_de_Tobi_es_revelada.png/revision/latest?cb=20151205055344&path-prefix=es"  />
+  <div>
+    <img height="250" src="https://static.wikia.nocookie.net/naruto/images/3/3d/La_cara_de_Tobi_es_revelada.png/revision/latest?cb=20151205055344&path-prefix=es"  />
+  </div>
 </div>
 
 ###
