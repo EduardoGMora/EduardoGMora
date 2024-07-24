@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Eduardo Mora , a fullstack and software developer who looks learn n contribute</h4>
+<h4 align="left">I'm Eduardo Mora , a fullstack and software developer who looks learn n collaborate on new projects :)</h4>
 
 ###
 
