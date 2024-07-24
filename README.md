@@ -1,10 +1,3 @@
-<style>
-  .spoty{
-    align= center;
-    margin= 4rem;
-  }
-</style>
-
 <h1 align="left">Hello World!!</h1>
 
 ###
@@ -55,7 +48,7 @@
 
 ###
 
-<div class="spoty">
+<div align="center">
   <a href="https://open.spotify.com/user/lalogomo2000">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lalogomo2000&count=5" alt="Spotify recently played"  />
   </a>
