@@ -42,7 +42,7 @@
 ###
 
 <div align="right">
-  <img height="250" src="https://media.gifdb.com/obito-uchiha-red-eye-am4t44o848zx1bsi.gif"  />
+  <img height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnaruto.fandom.com%2Fes%2Fwiki%2FObito_Uchiha&psig=AOvVaw1j_YegjUdjgbpicVzLvW5y&ust=1721927114549000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDR_sGUwIcDFQAAAAAdAAAAABAD"  />
 </div>
 
 ###
