@@ -15,8 +15,6 @@
 
 ###
 
-<img align="center" src="https://raw.githubusercontent.com/EduardoGMora/EduardoGMora/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
