@@ -64,7 +64,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/EduardoGMora/count.svg?"  />
 </div>
 
