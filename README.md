@@ -1,5 +1,3 @@
-<script src=""></script>
-
 # Hello World!!
 
 ###
