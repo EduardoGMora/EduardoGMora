@@ -1,8 +1,10 @@
-<h1 align="left">Hello World!!</h1>
+<script src=""></script>
+
+# Hello World!!
 
 ###
 
-<h4 align="left">I'm Eduardo Mora , a fullstack and software developer with a strong dedication to mastering new technologies and solving complex problems, ready to collaborate on new projects. :)</h4>
+I'm Eduardo Mora , a fullstack and software developer with a strong dedication to mastering new technologies and solving complex problems, ready to collaborate on new projects. :)
 
 ###
 
@@ -11,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoGMora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
   
 </div>
-
-###
 
 ###
 
@@ -43,8 +43,6 @@
 
 ###
 
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/lalogomo2000">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lalogomo2000&count=5" alt="Spotify recently played"  />
@@ -53,18 +51,15 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-g%C3%B3mez-5a8343262/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mora_463/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="right">
+<div style="display:flex; align-items:center; justify-content:space-between">
+  <div>
+    <a href="https://www.linkedin.com/in/eduardo-g%C3%B3mez-5a8343262/">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="https://www.instagram.com/mora_463/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    </a>
+  </div>
   <img src="https://profile-counter.glitch.me/EduardoGMora/count.svg?"  />
 </div>
 
