@@ -4,7 +4,7 @@
 
 ###
 
-I'm Eduardo Mora , a fullstack and software developer with a strong dedication to mastering new technologies and solving complex problems, ready to collaborate on new projects. :)
+I'm Eduardo Mora, a fullstack and software developer with a strong dedication to mastering new technologies and solving complex problems, ready to collaborate on new projects. :)
 
 ###
 
@@ -51,8 +51,8 @@ I'm Eduardo Mora , a fullstack and software developer with a strong dedication t
 
 ###
 
-<div style="display:flex; align-items:center; justify-content:space-between">
-  <div>
+<div>
+  <div align="left">
     <a href="https://www.linkedin.com/in/eduardo-g%C3%B3mez-5a8343262/">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
@@ -60,7 +60,9 @@ I'm Eduardo Mora , a fullstack and software developer with a strong dedication t
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
     </a>
   </div>
-  <img src="https://profile-counter.glitch.me/EduardoGMora/count.svg?"  />
+  <div align="right">
+    <img src="https://profile-counter.glitch.me/EduardoGMora/count.svg?"  />
+  </div>
 </div>
 
 ###
