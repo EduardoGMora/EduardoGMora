@@ -1,7 +1,9 @@
 # Hello World!!
 
-###
+### 📍Location
+Guadalajara, Jalisco. México
 
+### About me
 I'm Eduardo Mora, a fullstack and software developer with a strong dedication to mastering new technologies and solving complex problems, ready to collaborate on new projects. :)
 
 ###
@@ -12,7 +14,7 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
   
 </div>
 
-###
+### Languages and tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
