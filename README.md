@@ -21,7 +21,7 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
 - Software development
 - Web development
 - Networks
-- Backend
+- Frontend and Backend
 
 ### Languages and tools
 
