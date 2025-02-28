@@ -94,6 +94,4 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
   </div>
 </div>
 
-<img src="https://raw.githubusercontent.com/EduardoGMora/EduardoGMora/output/snake.svg" alt="Snake animation" />
-
 ###
