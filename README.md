@@ -77,6 +77,8 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible"  />
+  <img width="12" />
 </div>
 
 ###
