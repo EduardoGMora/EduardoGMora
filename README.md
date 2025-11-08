@@ -4,12 +4,12 @@
   <img height="200" src="https://64.media.tumblr.com/tumblr_m24q6qFMwM1qlms3vo1_500.gif"/>
 </div>
 
-### 📍Location
-Guadalajara, Jalisco. México
+## 🙋‍♂️ About me 
+### 📍Location Guadalajara, Jalisco. México
 
-## 🙋‍♂️ About me
 I'm Eduardo Mora, a fullstack and software developer with a strong dedication to mastering new technologies and solving complex problems, ready to collaborate on new projects. :)
 
+---
 ### 🔥 My Stats
 
 <div align="center">
@@ -17,12 +17,16 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoGMora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
+---
 ### ⚡ Skills
 - Software development
 - Web development
 - Networks
 - Frontend and Backend
+- DevOps
+- Automation
 
+---
 ### Languages and tools
 
 <div align="center">
@@ -77,21 +81,19 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins"  />
   <img width="12" />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoGMora/EduardoGMora/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoGMora/EduardoGMora/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EduardoGMora/EduardoGMora/output/pacman-contribution-graph.svg">
-</picture>
+---
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://www.linkedin.com/in/eduardo-gomez03/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -105,12 +107,5 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
-
-<br>
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/EduardoGMora/count.svg?"  />
-</div>
-
 
 ###
