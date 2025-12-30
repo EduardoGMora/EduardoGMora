@@ -10,14 +10,6 @@
 I'm Eduardo Mora, a fullstack and software developer with a strong dedication to mastering new technologies and solving complex problems, ready to collaborate on new projects. :)
 
 ---
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoGMora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoGMora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
-
----
 ### ⚡ Skills
 - Software development
 - Web development
@@ -74,8 +66,6 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -84,7 +74,14 @@ I'm Eduardo Mora, a fullstack and software developer with a strong dedication to
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/EduardoGMora/EduardoGMora/output/snake.svg" alt="Snake animation" />
 
 ###
 
